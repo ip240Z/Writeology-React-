@@ -30,7 +30,6 @@ let Main = () => {
                 <LatestArticles />
                 <SideArticleSection />
             </div>
-            <Footer />
         </main>
     )
 }

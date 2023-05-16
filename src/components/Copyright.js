@@ -7,7 +7,7 @@ let Copyright = () => {
         flexDirection: "column",
         alignItems: "center",
         gap: "10px",
-        padding: "15px",
+        padding: "25px",
         color: "grey"
     }
     return (
